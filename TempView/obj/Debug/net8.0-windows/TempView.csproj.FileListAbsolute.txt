@@ -1,0 +1,83 @@
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.exe
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.deps.json
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.runtimeconfig.json
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.pdb
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.AssemblyReference.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.Form1.resources
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.GenerateResource.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.AssemblyInfoInputs.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.AssemblyInfo.cs
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.CoreCompileInputs.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.sourcelink.json
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.Up2Date
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\refint\TempView.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.pdb
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.genruntimeconfig.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\obj\Debug\net8.0-windows\ref\TempView.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\TempView\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.exe
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.deps.json
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.runtimeconfig.json
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\TempView.pdb
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.Form1.resources
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.sourcelink.json
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.csproj.Up2Date
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\refint\TempView.dll
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.pdb
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\TempView.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\2iot-progettostage\TempView\obj\Debug\net8.0-windows\ref\TempView.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\TempView.exe
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\TempView.deps.json
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\TempView.runtimeconfig.json
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\TempView.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\TempView.pdb
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.csproj.AssemblyReference.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.Form1.resources
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.csproj.GenerateResource.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.AssemblyInfoInputs.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.AssemblyInfo.cs
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.csproj.Up2Date
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\refint\TempView.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.pdb
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\TempView.genruntimeconfig.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\TempView\obj\Debug\net8.0-windows\ref\TempView.dll
