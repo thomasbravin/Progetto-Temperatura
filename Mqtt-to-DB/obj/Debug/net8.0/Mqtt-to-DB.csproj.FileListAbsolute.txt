@@ -1,0 +1,53 @@
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.exe
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.deps.json
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.runtimeconfig.json
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.pdb
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.AssemblyInfoInputs.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.AssemblyInfo.cs
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.csproj.CoreCompileInputs.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.sourcelink.json
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\refint\Mqtt-to-DB.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.pdb
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.genruntimeconfig.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\ref\Mqtt-to-DB.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.csproj.AssemblyReference.cache
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.csproj.Up2Date
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\bortolanim\Desktop\2IOT-ProgettoStage\2iot-progettostage\Mqtt-to-DB\bin\Debug\net8.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.exe
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.deps.json
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.runtimeconfig.json
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\Mqtt-to-DB.pdb
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\HiveMQtt.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\NLog.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.csproj.AssemblyReference.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.AssemblyInfoInputs.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.AssemblyInfo.cs
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.csproj.Up2Date
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\refint\Mqtt-to-DB.dll
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.pdb
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\Mqtt-to-DB.genruntimeconfig.cache
+C:\Users\Thomas Bravin\Desktop\2iot-progettostage-main\Mqtt-to-DB\obj\Debug\net8.0\ref\Mqtt-to-DB.dll
